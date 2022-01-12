@@ -48,6 +48,7 @@ hr{
 .Player-name{
     margin-left: 16px;
     font-size: 18px;
+    display: grid;
 }
 /* ----------top blog style------------ */
 .blogs{
