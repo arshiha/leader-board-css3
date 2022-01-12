@@ -31,7 +31,7 @@ hr{
     color: #562EFF;
     font-size: 24px;
     margin-top: 3px;
-}
+} 
 .players{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -117,9 +117,7 @@ courses styles
         grid-template-columns: repeat(1, 1fr);
     }
 }
-.player, .blog{
-    flex-direction: column;
-}
+
 
 
 /* tablet devise */
