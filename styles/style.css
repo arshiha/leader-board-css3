@@ -131,3 +131,10 @@ courses styles
         grid-template-columns: repeat(2, 1fr);
     }
 }
+.course-duration{
+    background-color: lavenderblush;
+    border-radius: 10px;
+    margin-right: 10px;
+    font-weight: 100;
+    color: lightpink;
+}
